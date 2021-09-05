@@ -1,4 +1,4 @@
-[![jskline](https://circleci.com/gh/jskline/udacity-prj-4-docker.svg?style=svg)](https://circleci.com/gh/circleci/udacity-prj-4-docker)
+[![CircleCI](https://circleci.com/gh/jskline/udacity-prj-4-docker/tree/master.svg?style=svg)](https://circleci.com/gh/jskline/udacity-prj-4-docker/tree/master)
 
 ## Project Overview
 
