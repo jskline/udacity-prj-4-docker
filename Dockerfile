@@ -5,6 +5,7 @@ WORKDIR /app
 COPY . app.py /app/
 COPY . model_data/ /app/
 
+# hadolint ignore=DL3013
 RUN pip install --upgrade --no-cache-dir pip &&\
     pip install --trusted-host pypi.python.org -r requirements.txt --no-cache-dir
 

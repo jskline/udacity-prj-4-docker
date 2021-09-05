@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![jskline](https://circleci.com/gh/jskline/udacity-prj-4-docker.svg?style=svg)](https://circleci.com/gh/circleci/udacity-prj-4-docker)
 
 ## Project Overview
 
